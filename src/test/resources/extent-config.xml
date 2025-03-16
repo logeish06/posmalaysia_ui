@@ -1,0 +1,11 @@
+<extentreports>
+    <configuration>
+        <theme>standard</theme>  <!-- Options: standard, dark -->
+        <encoding>utf-8</encoding>
+        <protocol>https</protocol>
+        <reportName>Pos Malaysia Test Report</reportName>
+        <documentTitle>Test Execution Report</documentTitle>
+        <timeStampFormat>yyyy-MM-dd HH:mm:ss</timeStampFormat>
+        <chartVisibilityOnOpen>true</chartVisibilityOnOpen>
+    </configuration>
+</extentreports>

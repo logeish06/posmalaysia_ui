@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="13.187">
+    <testcase classname="Shipment Quote" name="Verify Rate Calculator displays multiple quote for user - when To Country is not Malaysia" time="13.052">
+        <system-out><![CDATA[Given user is on the pos malaysia rate calculator url.......................passed
+When user enters "Malaysia", "35600", "Perak", "India", "", "<toState>", "1" and click calculate button.passed
+Then verify multiple quotes are displayed for user..........................passed
+]]></system-out>
+    </testcase>
+</testsuite>
